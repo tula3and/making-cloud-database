@@ -1,0 +1,3 @@
+# Making a database for cloud
+
+I am making this database for a better translation, English to Korean, on cloud words. From July, I am studying about cloud as a member of IBM C:LOUDERs and also started a study group as a project manager. Our group translated [a course in cognitive class; Introdution to Cloud](https://cognitiveclass.ai/courses/introduction-to-cloud). It will offer Korean subtitle soon! From this activity, I noticed that the cloud specific words are not translated as well as common words, so our group made a plan for a better translation. This database is a part of our project. I will update this frequently. The main interface is made by Cloud Foundry. You can check it from [this link](https://tula-database-test.us-south.cf.appdomain.cloud/)! Thanks.
